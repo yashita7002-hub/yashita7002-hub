@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Yashita
 
-## 👩‍💻  Me:
-
 🎓 Second year grad
 
 💻 Passionate **Full Stack Developer**
@@ -9,6 +7,8 @@
 🌱 Currently focused on **Problem Solving**
 
 🚀 Interested in **Web Development, Machine Learning, and System Design**
+
+> *Do whatever brings you closer to your dreams, and give it your all.*
 
 ---
 
@@ -51,9 +51,3 @@
   <img src="https://streak-stats.demolab.com?user=yashita7002-hub&theme=tokyonight&hide_border=true"/>
 </p>
 
-
-## 📚 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashita7002-hub&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
