@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Yashita
 
-## 👩‍💻 About Me
+## 👩‍💻  Me:
 
-🎓 B.Tech in Computer Science & Engineering at **NIT Jamshedpur**
+🎓 Second year grad
 
 💻 Passionate **Full Stack Developer**
 
