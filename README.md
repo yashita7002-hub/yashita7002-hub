@@ -6,7 +6,7 @@
 
 💻 Passionate **Full Stack Developer**
 
-🌱 Currently focused on **Competitive Programming & Problem Solving**
+🌱 Currently focused on **Problem Solving**
 
 🚀 Interested in **Web Development, Machine Learning, and System Design**
 
