@@ -1,22 +1,34 @@
-##👋 Hi, I'm Yashita
+# 👋 Hi, I'm Yashita
 
-##ME:
+## 👩‍💻 About Me
 
-🎓 B.Tech CSE @ NIT Jamshedpur
-💻 Full Stack Developer
-🌱 Currently focusing on ProblemSolving
-🚀 Interested in Web Development, AI and System Design
+🎓 B.Tech in Computer Science & Engineering at **NIT Jamshedpur**
 
-##Tech Stack I have worked with:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,tailwind,vscode)](https://skillicons.dev)
+💻 Passionate **Full Stack Developer**
 
-##GIT HUB STATS
+🌱 Currently focused on **Competitive Programming & Problem Solving**
+
+🚀 Interested in **Web Development, Machine Learning, and System Design**
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashita7002-hub&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashita7002-hub&layout=compact&theme=tokyonight"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,tailwind,vscode,postman&perline=9" />
+  </a>
 </p>
 
-<!--
-**yashita7002-hub/yashita7002-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi, I'm Yashita
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashita7002-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashita7002-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yashita7002-hub&theme=tokyonight&hide_border=true"/>
+</p>
