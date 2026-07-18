@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yashita
 
-🎓 Second year grad
+🎓 Second year undergrad
 
 💻 Passionate **Full Stack Developer**
 
