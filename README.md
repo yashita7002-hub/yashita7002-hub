@@ -8,7 +8,7 @@
 
 🚀 Interested in **Web Development, Machine Learning, and System Design**
 
-> *Do whatever brings you closer to your dreams,live life and always seek peace of mind*
+> 
 
 ---
 
