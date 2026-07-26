@@ -6,8 +6,6 @@
 
 🌱 Currently focused on **Problem Solving**
 
-🚀 Interested in **Web Development, Machine Learning, and System Design**
-
 > 
 
 ---
