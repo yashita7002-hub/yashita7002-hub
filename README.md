@@ -1,6 +1,6 @@
 <!-- 💜 PURPLE ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120024,50:7B2CBF,100:E0AAFF&height=200&section=header&text=YASHITA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Curious%20Mind%20%7C%20Builder%20at%20Heart&descAlignY=60&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120024,50:7B2CBF,100:E0AAFF&height=200&section=header&text=YASHITA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&descAlignY=60&descSize=16" width="100%" />
 
   <!-- ✨ ANIMATED INTRO -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&color=D8B4FE&center=true&vCenter=true&width=600&lines=Hi%2C+Yashita+here!+%F0%9F%91%8B;Exploring.+Failing.+Building.;" alt="Animated greeting" />
@@ -8,8 +8,9 @@
   <br/>
 
   <!-- 👀 PROFILE VIEWS -->
-  <img src="https://komarev.com/ghpvc/?username=yashita7002-hub&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS" alt="Profile views" />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashita7002-hub&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
   <br/><br/>
 
   <a href="https://github.com/yashita7002-hub?tab=followers">
@@ -29,7 +30,7 @@
 Name       : Yashita
 College    : Nit Jamshedpur 2029
 Interests  : SoftwareDevelopment,Problem Solving
-Currently  : Learning, experimenting & building
+Currently  : Learning, Experimenting & Building
 
 ```
 
@@ -71,7 +72,7 @@ Currently  : Learning, experimenting & building
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashita7002-hub&show_icons=true&hide_border=true&bg_color=120024&title_color=D8B4FE&icon_color=C084FC&text_color=F3E8FF&rank_icon=github" alt="GitHub statistics" />
+
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashita7002-hub&layout=compact&hide_border=true&bg_color=120024&title_color=D8B4FE&text_color=F3E8FF" alt="Most used languages" />
 
@@ -86,8 +87,11 @@ Currently  : Learning, experimenting & building
 <!-- 🐍 CONTRIBUTION SNAKE -->
 <h2 align="center">🐍 My Contribution Trail</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yashita7002-hub/yashita7002-hub/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/yashita7002-hub/yashita7002-hub/output/github-contribution-grid-snake-dark.svg"
+    alt="Animated GitHub contribution snake"
+    width="100%"
+  />
 </div>
 
 ---
@@ -95,7 +99,7 @@ Currently  : Learning, experimenting & building
 <!-- 🌌 ANIMATED CLOSING -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Stay+curious.+Keep+building.;Dream+it.+Code+it.+Make+it+real.;The+journey+is+the+adventure." alt="Animated closing message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Stay+curious.+Keep+building.;The+journey+is+the+adventure." alt="Animated closing message" />
 
   <br/><br/>
 
